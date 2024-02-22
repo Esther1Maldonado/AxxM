@@ -313,10 +313,10 @@
   <url>
    <loc>https://ashleynickymiller.com/blog.html</loc>
     <image:image>
-      <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Blog-Inflence-Of-Social-Media.jpg</image:loc>
-<image:title>IMAGE_TITLE</image:title>
-        <image:caption>IMAGE_CAPTION</image:caption>
-    </image:image>
+    <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Blog-Inflence-Of-Social-Media.jpg</image:loc>
+    <image:title>Ashley Nicky Miller - Model Portfolio</image:title>
+    <image:caption>Ashley Nicky Miller, a renowned model, showcasing her portfolio. Discover her stunning photos and latest updates on social media influences. Explore now!</image:caption>
+</image:image>
   
   </url>
 
@@ -324,25 +324,25 @@
   <url>
    <loc>https://ashleynickymiller.com/contact.html</loc>
     <image:image>
-      <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Blog-Inflence-Of-Social-Media.jpg</image:loc>
-<image:title>IMAGE_TITLE</image:title>
-        <image:caption>IMAGE_CAPTION</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Having-A-Hot-Shower-3.jpg</image:loc>
-<image:title>IMAGE_TITLE</image:title>
-        <image:caption>IMAGE_CAPTION</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-And-Her-Photographer-Nav.jpg</image:loc>
-<image:title>IMAGE_TITLE</image:title>
-        <image:caption>IMAGE_CAPTION</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Hotel-4.jpg</image:loc>
-<image:title>IMAGE_TITLE</image:title>
-        <image:caption>IMAGE_CAPTION</image:caption>
-    </image:image>
+    <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Blog-Inflence-Of-Social-Media.jpg</image:loc>
+    <image:title>Ashley Nicky Miller Blog: Influence of Social Media</image:title>
+    <image:caption>Ashley Nicky Miller discussing the influence of social media on the modeling industry.</image:caption>
+</image:image>
+<image:image>
+    <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Having-A-Hot-Shower-3.jpg</image:loc>
+    <image:title>Ashley Nicky Miller Hot Shower</image:title>
+    <image:caption>Ashley Nicky Miller enjoying a hot shower during a photoshoot.</image:caption>
+</image:image>
+<image:image>
+    <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-And-Her-Photographer-Nav.jpg</image:loc>
+    <image:title>Ashley Nicky Miller with Her Photographer</image:title>
+    <image:caption>Ashley Nicky Miller posing with her photographer during a fashion shoot.</image:caption>
+</image:image>
+<image:image>
+    <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Hotel-4.jpg</image:loc>
+    <image:title>Ashley Nicky Miller Hotel Photoshoot</image:title>
+    <image:caption>Ashley Nicky Miller striking a pose during a photoshoot at a luxury hotel.</image:caption>
+</image:image>
   
   </url>
   
