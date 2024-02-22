@@ -6,188 +6,307 @@
   <url>
     <loc>https://ashleynickymiller.com/index.html</loc>
     <image:image>
-      <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Relaxing.jpg</image:loc>
-    </image:image>
+    <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Relaxing.jpg</image:loc>
+    <image:title>Hero Picture Of Ashley Nicky Miller Upside Down In A Yoga Trapeze</image:title>
+    <image:caption>Ashley Nicky Miller relaxing in a yoga trapeze</image:caption>
+</image:image>
     <image:image>
-      <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Yoga-Trapeze.jpg</image:loc>
-    </image:image>
-     <image:image>
-      <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Beach-Glass.jpg</image:loc>
-    </image:image>
-     <image:image>
-      <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Teacher-About-Page-2018-Nav.jpg</image:loc>
-    </image:image>
-     <image:image>
-      <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-And-Her-Photographer-Nav.jpg</image:loc>
-    </image:image>
-     <image:image>
-      <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-About-Page-2017-1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.ashleynickymiller.com//icon-512x512.png</image:loc>
-    </image:image>
+    <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Yoga-Trapeze.jpg</image:loc>
+    <image:title>Ashley Nicky Miller practicing yoga on a trapeze</image:title>
+    <image:caption>Find Ashley Nicky Miller demonstrating yoga poses on a trapeze</image:caption>
+</image:image>
+
+<image:image>
+    <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Beach-Glass.jpg</image:loc>
+    <image:title>Ashley Nicky Miller collecting beach glass by the shore</image:title>
+    <image:caption>Explore Ashley Nicky Miller's beach adventures and her love for collecting beach glass</image:caption>
+</image:image>
+
+<image:image>
+    <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Teacher-About-Page-2018-Nav.jpg</image:loc>
+    <image:title>Ashley Nicky Miller - About Page 2018</image:title>
+    <image:caption>Discover Ashley Nicky Miller's journey and experience as a teacher</image:caption>
+</image:image>
+
+<image:image>
+    <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-And-Her-Photographer-Nav.jpg</image:loc>
+    <image:title>Ashley Nicky Miller with her photographer</image:title>
+    <image:caption>View Ashley Nicky Miller collaborating with her photographer on creative projects</image:caption>
+</image:image>
+
+<image:image>
+    <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-About-Page-2017-1.jpg</image:loc>
+    <image:title>Ashley Nicky Miller - About Page 2017</image:title>
+    <image:caption>Learn more about Ashley Nicky Miller's background and story on her About Page 2017</image:caption>
+</image:image>
+
+<image:image>
+    <image:loc>https://www.ashleynickymiller.com/icon-512x512.png</image:loc>
+    <image:title>Ashley Nicky Miller's Icon</image:title>
+    <image:caption>Identify Ashley Nicky Miller's brand with her unique icon</image:caption>
+</image:image>
   </url>
   
 
   <!-- Page 2 -->
   <url>
     <loc>https://ashleynickymiller.com/about.html</loc>
-     <image:image>
-      <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Teacher-About-Page-2018.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-And-Her-Photographer.jpg</image:loc>
-    </image:image>
-     <image:image>
-      <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-About-Page-2017-1.jpg</image:loc>
-    </image:image>
-     <image:image>
-      <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Teacher-About-Page-2018.jpg</image:loc>
-    </image:image>
+
+<image:image>
+    <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Teacher-About-Page-2018.jpg</image:loc>
+    <image:title>Ashley Nicky Miller Teaching Yoga - About Page 2018</image:title>
+    <image:caption>Ashley Nicky Miller teaching yoga on her About page in 2018</image:caption>
+</image:image>
+
+<image:image>
+    <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-And-Her-Photographer.jpg</image:loc>
+    <image:title>Ashley Nicky Miller with Her Photographer</image:title>
+    <image:caption>Ashley Nicky Miller with her photographer, capturing moments</image:caption>
+</image:image>
+
+<image:image>
+    <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-About-Page-2017-1.jpg</image:loc>
+    <image:title>Ashley Nicky Miller - About Page 2017</image:title>
+    <image:caption>Ashley Nicky Miller on her About page in 2017</image:caption>
+</image:image>
+
+<image:image>
+    <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Teacher-About-Page-2018.jpg</image:loc>
+    <image:title>Ashley Nicky Miller Teaching Yoga - About Page 2018</image:title>
+    <image:caption>Ashley Nicky Miller teaching yoga on her About page in 2018</image:caption>
+</image:image>
+
   </url>
 
     <!-- Page 3 -->
   <url>
    <loc>https://ashleynickymiller.com/portfolio.html</loc>
+<image:image>
+  <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Hotel-1.jpg</image:loc>
+  <image:title>Ashley Nicky Miller at Luxury Hotel - Image 1</image:title>
+  <image:caption>Ashley Nicky Miller enjoying a luxurious stay at a hotel, surrounded by elegance and comfort.</image:caption>
+</image:image>
+<image:image>
+  <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Hotel-2.jpg</image:loc>
+  <image:title>Ashley Nicky Miller at Luxury Hotel - Image 2</image:title>
+  <image:caption>Ashley Nicky Miller relaxing in a serene environment at a luxury hotel, showcasing elegance and relaxation.</image:caption>
+</image:image>
+<image:image>
+  <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Hotel-3.jpg</image:loc>
+  <image:title>Ashley Nicky Miller at Luxury Hotel - Image 3</image:title>
+  <image:caption>Ashley Nicky Miller enjoying the exquisite amenities of a luxury hotel, creating unforgettable memories in a lavish setting.</image:caption>
+</image:image>
+<image:image>
+  <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Hotel-5.jpg</image:loc>
+  <image:title>Ashley Nicky Miller at Luxury Hotel - Image 4</image:title>
+  <image:caption>Ashley Nicky Miller immersed in luxury at a prestigious hotel, experiencing unparalleled comfort and sophistication.</image:caption>
+</image:image>
+<image:image>
+  <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Hotel-6.jpg</image:loc>
+  <image:title>Ashley Nicky Miller at Luxury Hotel - Image 5</image:title>
+  <image:caption>Ashley Nicky Miller indulging in luxury at a world-class hotel, epitomizing elegance and refinement.</image:caption>
+</image:image>
+<image:image>
+  <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Hotel-7.jpg</image:loc>
+  <image:title>Ashley Nicky Miller at Luxury Hotel - Image 6</image:title>
+  <image:caption>Ashley Nicky Miller experiencing the opulence of a luxury hotel, surrounded by sophistication and comfort.</image:caption>
+</image:image>
+<image:image>
+  <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Hotel-8.jpg</image:loc>
+  <image:title>Ashley Nicky Miller at Luxury Hotel - Image 7</image:title>
+  <image:caption>Ashley Nicky Miller enjoying a luxurious getaway at a premium hotel, creating unforgettable moments in style.</image:caption>
+</image:image>
+<image:image>
+  <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Hotel-9.jpg</image:loc>
+  <image:title>Ashley Nicky Miller at Luxury Hotel - Image 8</image:title>
+  <image:caption>Ashley Nicky Miller immersing herself in luxury at a top-tier hotel, capturing moments of elegance and relaxation.</image:caption>
+</image:image>
+<image:image>
+  <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Hotel-4.jpg</image:loc>
+  <image:title>Ashley Nicky Miller at Luxury Hotel - Image 9</image:title>
+  <image:caption>Ashley Nicky Miller enjoying the splendor of a luxury hotel, embracing the essence of sophistication and comfort.</image:caption>
+</image:image>
+<image:image>
+  <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-White-Dress-3.jpg</image:loc>
+  <image:title>Ashley Nicky Miller in Elegant White Dress - Image 1</image:title>
+  <image:caption>Ashley Nicky Miller radiating grace and elegance in a stunning white dress, epitomizing timeless beauty and sophistication.</image:caption>
+</image:image>
+<image:image>
+  <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-White-Dress-1.jpg</image:loc>
+  <image:title>Ashley Nicky Miller in Elegant White Dress - Image 2</image:title>
+  <image:caption>Ashley Nicky Miller exuding elegance and charm in a beautiful white dress, showcasing timeless style and sophistication.</image:caption>
+</image:image>
     <image:image>
-      <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Hotel-1.jpg</image:loc>
-    </image:image>
+    <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-White-Dress-2.jpg</image:loc>
+    <image:title>Ashley Nicky Miller White Dress 2</image:title>
+    <image:caption>Ashley Nicky Miller wearing a beautiful white dress</image:caption>
+</image:image>
+<image:image>
+    <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-White-Dress-4.jpg</image:loc>
+    <image:title>Ashley Nicky Miller White Dress 4</image:title>
+    <image:caption>Ashley Nicky Miller posing elegantly in a white dress</image:caption>
+</image:image>
+<image:image>
+    <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Wearing-Yellow-1.jpg</image:loc>
+    <image:title>Ashley Nicky Miller Wearing Yellow 1</image:title>
+    <image:caption>Ashley Nicky Miller looking stunning in a yellow outfit</image:caption>
+</image:image>
+<image:image>
+    <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Wearing-Yellow-2.jpg</image:loc>
+    <image:title>Ashley Nicky Miller Wearing Yellow 2</image:title>
+    <image:caption>Ashley Nicky Miller rocking a chic yellow ensemble</image:caption>
+</image:image>
+<image:image>
+    <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Wearing-Yellow-3.jpg</image:loc>
+    <image:title>Ashley Nicky Miller Wearing Yellow 3</image:title>
+    <image:caption>Ashley Nicky Miller looking radiant in yellow attire</image:caption>
+</image:image>
+<image:image>
+    <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Having-A-Hot-Shower-1.jpg</image:loc>
+    <image:title>Ashley Nicky Miller Having A Hot Shower 1</image:title>
+    <image:caption>Ashley Nicky Miller enjoying a relaxing hot shower</image:caption>
+</image:image>
+<image:image>
+    <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Having-A-Hot-Shower-2.jpg</image:loc>
+    <image:title>Ashley Nicky Miller Having A Hot Shower 2</image:title>
+    <image:caption>Ashley Nicky Miller indulging in a soothing hot shower</image:caption>
+</image:image>
+<image:image>
+    <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Having-A-Hot-Shower-3.jpg</image:loc>
+    <image:title>Ashley Nicky Miller Having A Hot Shower 3</image:title>
+    <image:caption>Ashley Nicky Miller enjoying a rejuvenating hot shower</image:caption>
+</image:image>
+<image:image>
+    <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Having-A-Hot-Shower-4.jpg</image:loc>
+    <image:title>Ashley Nicky Miller Having A Hot Shower 4</image:title>
+    <image:caption>Ashley Nicky Miller luxuriating in a refreshing hot shower</image:caption>
+</image:image>
+<image:image>
+    <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Having-A-Hot-Shower-5.jpg</image:loc>
+    <image:title>Ashley Nicky Miller Having A Hot Shower 5</image:title>
+    <image:caption>Ashley Nicky Miller unwinding in a blissful hot shower</image:caption>
+</image:image>
+<image:image>
+    <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Having-A-Hot-Shower-7.jpg</image:loc>
+    <image:title>Ashley Nicky Miller Having A Hot Shower 7</image:title>
+    <image:caption>Ashley Nicky Miller relaxing in a soothing hot shower</image:caption>
+</image:image>
+<image:image>
+    <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Having-A-Hot-Shower-8.jpg</image:loc>
+    <image:title>Ashley Nicky Miller Having A Hot Shower 8</image:title>
+    <image:caption>Ashley Nicky Miller enjoying a calming hot shower</image:caption>
+</image:image>
+<image:image>
+    <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Having-A-Hot-Shower-9.jpg</image:loc>
+    <image:title>Ashley Nicky Miller Having A Hot Shower 9</image:title>
+    <image:caption>Ashley Nicky Miller soaking in a peaceful hot shower</image:caption>
+</image:image>
+<image:image>
+    <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Having-A-Hot-Shower-10.jpg</image:loc>
+    <image:title>Ashley Nicky Miller Having A Hot Shower 10</image:title>
+    <image:caption>Ashley Nicky Miller unwinding in a restful hot shower</image:caption>
+</image:image>
+<image:image>
+    <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Having-A-Hot-Shower-11.jpg</image:loc>
+    <image:title>Ashley Nicky Miller Having A Hot Shower 11</image:title>
+    <image:caption>Ashley Nicky Miller enjoying a tranquil hot shower</image:caption>
+</image:image>
+<image:image>
+    <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Having-A-Hot-Shower-12.jpg</image:loc>
+    <image:title>Ashley Nicky Miller Having A Hot Shower 12</image:title>
+    <image:caption>Ashley Nicky Miller basking in a serene hot shower</image:caption>
+</image:image>
     <image:image>
-      <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Hotel-2.jpg</image:loc>
-    </image:image>
+    <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Having-A-Hot-Shower-13.jpg</image:loc>
+    <image:title>Ashley Nicky Miller Having a Relaxing Hot Shower</image:title>
+    <image:caption>Ashley Nicky Miller enjoying a soothing hot shower to relax</image:caption>
+</image:image>
+<image:image>
+    <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Having-A-Hot-Shower-14.jpg</image:loc>
+    <image:title>Ashley Nicky Miller Enjoying a Refreshing Shower</image:title>
+    <image:caption>Ashley Nicky Miller enjoying a refreshing shower experience</image:caption>
+</image:image>
+<image:image>
+    <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-In-Bed-1.jpg</image:loc>
+    <image:title>Ashley Nicky Miller Relaxing in Bed</image:title>
+    <image:caption>Ashley Nicky Miller enjoying a relaxing moment in bed</image:caption>
+</image:image>
+<image:image>
+    <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-In-Bed-2.jpg</image:loc>
+    <image:title>Ashley Nicky Miller Sleeping Peacefully in Bed</image:title>
+    <image:caption>Ashley Nicky Miller peacefully sleeping in bed</image:caption>
+</image:image>
+<image:image>
+    <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-In-Bed-3.jpg</image:loc>
+    <image:title>Ashley Nicky Miller Cozily Resting in Bed</image:title>
+    <image:caption>Ashley Nicky Miller enjoying a cozy rest in bed</image:caption>
+</image:image>
+<image:image>
+    <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-In-Bed-4.jpg</image:loc>
+    <image:title>Ashley Nicky Miller Lying Comfortably in Bed</image:title>
+    <image:caption>Ashley Nicky Miller lying comfortably in bed</image:caption>
+</image:image>
+<image:image>
+    <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-In-Bed-5.jpg</image:loc>
+    <image:title>Ashley Nicky Miller Resting Peacefully in Bed</image:title>
+    <image:caption>Ashley Nicky Miller resting peacefully in bed</image:caption>
+</image:image>
     <image:image>
-      <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Hotel-3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Hotel-5.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Hotel-6.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Hotel-7.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Hotel-8.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Hotel-9.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.ashleynickymiller.comimg/photo/Ashley-Nicky-Miller-Hotel-4.jpg/</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-White-Dress-3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-White-Dress-1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-White-Dress-2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-White-Dress-4.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Wearing-Yellow-1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Wearing-Yellow-2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Wearing-Yellow-3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Having-A-Hot-Shower-1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Having-A-Hot-Shower-2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Having-A-Hot-Shower-3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Having-A-Hot-Shower-4.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Having-A-Hot-Shower-5.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Having-A-Hot-Shower-7.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Having-A-Hot-Shower-8.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Having-A-Hot-Shower-9.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Having-A-Hot-Shower-10.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Having-A-Hot-Shower-11.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Having-A-Hot-Shower-12.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Having-A-Hot-Shower-13.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Having-A-Hot-Shower-14.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-In-Bed-1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-In-Bed-2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-In-Bed-3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-In-Bed-4.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-In-Bed-5.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-And-Her-Friend-1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-And-Her-Friend-2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-And-Her-Friend-3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Ncky-Miller-In-Light-Blue-1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Ncky-Miller-In-Light-Blue-2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Ncky-Miller-In-Light-Blue-3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Ncky-Miller-In-Light-Blue-4.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Ncky-Miller-In-Light-Blue-5.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Ncky-Miller-In-Light-Blue-6.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-And-Her-Friend-3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-And-Her-Photographer-Nav.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-White-Dress-2.jpg</image:loc>
-    </image:image>
-    
+    <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-And-Her-Friend-1.jpg</image:loc>
+    <image:title>Ashley Nicky Miller and Her Friend - Image 1</image:title>
+    <image:caption>Ashley Nicky Miller and her friend enjoying a day out - Image 1</image:caption>
+</image:image>
+<image:image>
+    <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-And-Her-Friend-2.jpg</image:loc>
+    <image:title>Ashley Nicky Miller and Her Friend - Image 2</image:title>
+    <image:caption>Ashley Nicky Miller and her friend enjoying a day out - Image 2</image:caption>
+</image:image>
+<image:image>
+    <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-And-Her-Friend-3.jpg</image:loc>
+    <image:title>Ashley Nicky Miller and Her Friend - Image 3</image:title>
+    <image:caption>Ashley Nicky Miller and her friend enjoying a day out - Image 3</image:caption>
+</image:image>
+<image:image>
+    <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Ncky-Miller-In-Light-Blue-1.jpg</image:loc>
+    <image:title>Ashley Nicky Miller in Light Blue Dress - Image 1</image:title>
+    <image:caption>Ashley Nicky Miller posing in a stylish light blue dress - Image 1</image:caption>
+</image:image>
+<image:image>
+    <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Ncky-Miller-In-Light-Blue-2.jpg</image:loc>
+    <image:title>Ashley Nicky Miller in Light Blue Dress - Image 2</image:title>
+    <image:caption>Ashley Nicky Miller posing in a stylish light blue dress - Image 2</image:caption>
+</image:image>
+<image:image>
+    <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Ncky-Miller-In-Light-Blue-3.jpg</image:loc>
+    <image:title>Ashley Nicky Miller in Light Blue Dress - Image 3</image:title>
+    <image:caption>Ashley Nicky Miller posing in a stylish light blue dress - Image 3</image:caption>
+</image:image>
+<image:image>
+    <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Ncky-Miller-In-Light-Blue-4.jpg</image:loc>
+    <image:title>Ashley Nicky Miller in Light Blue Dress - Image 4</image:title>
+    <image:caption>Ashley Nicky Miller posing in a stylish light blue dress - Image 4</image:caption>
+</image:image>
+<image:image>
+    <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Ncky-Miller-In-Light-Blue-5.jpg</image:loc>
+    <image:title>Ashley Nicky Miller in Light Blue Dress - Image 5</image:title>
+    <image:caption>Ashley Nicky Miller posing in a stylish light blue dress - Image 5</image:caption>
+</image:image>
+<image:image>
+    <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Ncky-Miller-In-Light-Blue-6.jpg</image:loc>
+    <image:title>Ashley Nicky Miller in Light Blue Dress - Image 6</image:title>
+    <image:caption>Ashley Nicky Miller posing in a stylish light blue dress - Image 6</image:caption>
+</image:image>
+<image:image>
+    <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-White-Dress-2.jpg</image:loc>
+    <image:title>Ashley Nicky Miller in White Dress - Image 1</image:title>
+    <image:caption>Ashley Nicky Miller looking elegant in a beautiful white dress - Image 1</image:caption>
+</image:image>
+<image:image>
+    <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-And-Her-Photographer-Nav.jpg</image:loc>
+    <image:title>Ashley Nicky Miller and Her Photographer - Nav</image:title>
+    <image:caption>Ashley Nicky Miller discussing photography with her professional photographer - Nav</image:caption>
+</image:image>
+
   </url>
 
  <!-- Page 4 -->
@@ -195,6 +314,8 @@
    <loc>https://ashleynickymiller.com/blog.html</loc>
     <image:image>
       <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Blog-Inflence-Of-Social-Media.jpg</image:loc>
+<image:title>IMAGE_TITLE</image:title>
+        <image:caption>IMAGE_CAPTION</image:caption>
     </image:image>
   
   </url>
@@ -204,15 +325,23 @@
    <loc>https://ashleynickymiller.com/contact.html</loc>
     <image:image>
       <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Blog-Inflence-Of-Social-Media.jpg</image:loc>
+<image:title>IMAGE_TITLE</image:title>
+        <image:caption>IMAGE_CAPTION</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Having-A-Hot-Shower-3.jpg</image:loc>
+<image:title>IMAGE_TITLE</image:title>
+        <image:caption>IMAGE_CAPTION</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-And-Her-Photographer-Nav.jpg</image:loc>
+<image:title>IMAGE_TITLE</image:title>
+        <image:caption>IMAGE_CAPTION</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Hotel-4.jpg</image:loc>
+<image:title>IMAGE_TITLE</image:title>
+        <image:caption>IMAGE_CAPTION</image:caption>
     </image:image>
   
   </url>
