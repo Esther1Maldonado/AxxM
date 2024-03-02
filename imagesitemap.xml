@@ -4,7 +4,7 @@
     
   <!-- Page 1 -->
   <url>
-    <loc>https://ashleynickymiller.com/index.html</loc>
+    <loc>https://ashleynickymiller.com/</loc>
     <image:image>
     <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Relaxing.jpg</image:loc>
     <image:title>Hero Picture Of Ashley Nicky Miller Upside Down In A Yoga Trapeze</image:title>
@@ -50,7 +50,7 @@
 
   <!-- Page 2 -->
   <url>
-    <loc>https://ashleynickymiller.com/about.html</loc>
+    <loc>https://ashleynickymiller.com/about</loc>
 
 <image:image>
     <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Teacher-About-Page-2018.jpg</image:loc>
@@ -80,7 +80,7 @@
 
     <!-- Page 3 -->
   <url>
-   <loc>https://ashleynickymiller.com/portfolio.html</loc>
+   <loc>https://ashleynickymiller.com/portfolio</loc>
 <image:image>
   <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Hotel-1.jpg</image:loc>
   <image:title>Ashley Nicky Miller at Luxury Hotel - Image 1</image:title>
@@ -311,7 +311,7 @@
 
  <!-- Page 4 -->
   <url>
-   <loc>https://ashleynickymiller.com/blog.html</loc>
+   <loc>https://ashleynickymiller.com/blog</loc>
     <image:image>
     <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Blog-Inflence-Of-Social-Media.jpg</image:loc>
     <image:title>Ashley Nicky Miller - Model Portfolio</image:title>
@@ -322,7 +322,7 @@
 
   <!-- Page 4 -->
   <url>
-   <loc>https://ashleynickymiller.com/contact.html</loc>
+   <loc>https://ashleynickymiller.com/contact</loc>
     <image:image>
     <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Blog-Inflence-Of-Social-Media.jpg</image:loc>
     <image:title>Ashley Nicky Miller Blog: Influence of Social Media</image:title>
