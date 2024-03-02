@@ -2,7 +2,7 @@
   "name": "AshleyNickyMiller",
   "short_name": "ANM",
   "description": "Portfolio website of Ashley Nicky Miller, model and photographer from Los Angeles",
-  "start_url": "/index.html",
+  "start_url": "https://www.ashleynickymiller.com",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ff0000",
