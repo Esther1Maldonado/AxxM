@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
@@ -311,7 +312,7 @@
 
  <!-- Page 4 -->
   <url>
-   <loc>https://ashleynickymiller.com/blog</loc>
+   <loc>https://ashleynickymiller.com/my_blog</loc>
     <image:image>
     <image:loc>https://www.ashleynickymiller.com/img/photo/Ashley-Nicky-Miller-Blog-Inflence-Of-Social-Media.jpg</image:loc>
     <image:title>Ashley Nicky Miller - Model Portfolio</image:title>
@@ -320,7 +321,7 @@
   
   </url>
 
-  <!-- Page 4 -->
+  <!-- Page 5 -->
   <url>
    <loc>https://ashleynickymiller.com/contact</loc>
     <image:image>
